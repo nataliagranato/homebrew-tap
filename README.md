@@ -16,26 +16,6 @@ brew tap nataliagranato/tap
 
 ## 🛠️ Ferramentas Disponíveis
 
-### kubeon
-CLI tool para gerenciar RBAC no Kubernetes, definir quotas de namespace e criar arquivos Kubeconfig para usuários.
-
-```bash
-brew install nataliagranato/tap/kubeon
-```
-
-**Funcionalidades:**
-- Gerenciamento de RBAC no Kubernetes
-- Configuração de quotas de namespace
-- Criação de arquivos Kubeconfig para usuários
-- Simplifica o processo de gerenciamento de permissões e recursos do Kubernetes
-
-### k8s-api-metrics
-API de métricas Kubernetes que fornece informações sobre o cluster através de endpoints RESTful protegidos por autenticação.
-
-```bash
-brew install nataliagranato/tap/k8s-api-metrics
-```
-
 **Funcionalidades:**
 - Coleta e exposição de métricas do Kubernetes
 - Endpoints RESTful para consulta de métricas
